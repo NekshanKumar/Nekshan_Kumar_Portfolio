@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Nekshan_Kumar_Portfolio/static/css/main.132dae3a.css",
+    "main.js": "/Nekshan_Kumar_Portfolio/static/js/main.6162695d.js",
+    "static/media/Nekshan_Kumar_Resume.pdf": "/Nekshan_Kumar_Portfolio/static/media/Nekshan_Kumar_Resume.557a3b4baef6c066afa9.pdf",
+    "static/media/niks2.png": "/Nekshan_Kumar_Portfolio/static/media/niks2.558b4e001235cba4c5d6.png",
+    "static/media/niks.jpeg": "/Nekshan_Kumar_Portfolio/static/media/niks.0c9441793b6bd3145fd1.jpeg",
+    "static/media/portfolio1.jpeg": "/Nekshan_Kumar_Portfolio/static/media/portfolio1.07715d04f67e91f4ab69.jpeg",
+    "index.html": "/Nekshan_Kumar_Portfolio/index.html",
+    "main.132dae3a.css.map": "/Nekshan_Kumar_Portfolio/static/css/main.132dae3a.css.map",
+    "main.6162695d.js.map": "/Nekshan_Kumar_Portfolio/static/js/main.6162695d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.132dae3a.css",
+    "static/js/main.6162695d.js"
+  ]
+}
